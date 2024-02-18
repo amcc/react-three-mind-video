@@ -59,6 +59,7 @@ function App() {
     videoRef.current.play();
     setShowPlay(false);
   };
+
   const toggleSound = () => {
     if (!clicked) setClicked(true);
     videoRef.current.muted = !videoRef.current.muted;
@@ -97,7 +98,7 @@ function App() {
         <ARAnchor
           target={0}
           onAnchorFound={() => handleAnchorFound()} // Callback invoked when anchor was found
-          onAnchorLost={() => handleAnchorLost()} // Callback invoked when previously found anchor was lost>
+          onAnchorLost={() => handleAnchorLost()} // Callback invoked when previously found anchor was lost
         >
           <PlaneBox position={[0, 0, 0.15]} />
           <Plane position={[0, 0, 0.3]} ref={videoRef} />
