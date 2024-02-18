@@ -12,6 +12,6 @@ losing/gaining tracking with start/stop the video
 
 Test out the example here: https://react-three-mind-video.netlify.app/
 
-![mindAR card]([https://github.com/amcc/react-three-mind-video/blob/main/src/assets/target.png?raw=true](https://github.com/amcc/react-three-mind-video/blob/main/src/assets/target.png?raw=true))
+Use the below image to test the AR
 
-![alt text](https://github.com/amcc/react-three-mind-video/blob/main/src/assets/target.png?raw=true)
+![MindAR card](https://github.com/amcc/react-three-mind-video/blob/main/src/assets/target.png?raw=true)
