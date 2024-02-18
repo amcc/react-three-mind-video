@@ -12,4 +12,4 @@ losing/gaining tracking with start/stop the video
 
 Test out the example here: https://react-three-mind-video.netlify.app/
 
-(https://cdn.jsdelivr.net/gh/hiukim/mind-ar-js@1.1.4/examples/image-tracking/assets/card-example/card.png)
+![mindAR card]([https://github.com/amcc/react-three-mind-video/blob/main/src/assets/target.png?raw=true](https://github.com/amcc/react-three-mind-video/blob/main/src/assets/target.png?raw=true))
